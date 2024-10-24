@@ -2,72 +2,72 @@
 
 ## 🚀 Installation
 
-Pour installer et exécuter ce projet sur votre machine locale **sur le bureau de votre PC**, suivez l'une des deux méthodes ci-dessous :
+To install and run this project on your local machine **on your PC's desktop**, follow one of the two methods below:
 
-### Méthode 1 : Cloner le dépôt
+### Method 1: Clone the repository
 
-#### Cloner le dépôt (Méthode 1)
+#### Clone the repository (Method 1)
 
 ```bash
-git clone https://github.com/votre_nom_utilisateur/nom_du_projet.git
+git clone git@github.com:Leoorecchioni/ViA_First-3D-modelling-project.git
 ```
 
-> **⚠️ Important :** Toutes les opérations doivent être effectuées **sur le bureau de votre PC** pour garantir le bon fonctionnement du projet.
+> **⚠️ Important:** All operations must be performed **on your PC's desktop** to ensure the project works correctly.
 
-### Méthode 2 : Télécharger et extraire le ZIP
+### Method 2: Download and extract the ZIP
 
-#### Extraire le ZIP (Méthode 2)
+#### Extract the ZIP (Method 2)
 
-- Téléchargez le projet en tant que fichier ZIP :
+- Download the project as a ZIP file:
   
-   [⬇️ Télécharger ZIP](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/archive/refs/heads/main.zip)
+   [⬇️ Download ZIP](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/archive/refs/heads/main.zip)
 
-> - Puis, extrayez-le **sur le bureau de votre PC**.
+> - Then, extract it **on your PC's desktop**.
 
-### 2. Ouvrir dans Blender
+### 2. Open in Blender
 
-- Ce projet utilise **Blender** comme logiciel de modélisation 3D.
-- Assurez-vous d'avoir installé la version **Blender 4.2**. Certaines fonctionnalités peuvent différer selon les versions.
-- Ouvrez le fichier `.blend` inclus dans le projet **sur votre bureau** pour visualiser ou modifier la scène.
+- This project uses **Blender** as the 3D modeling software.
+- Make sure you have installed version **Blender 4.2**. Some features may differ between versions.
+- Open the `.blend` file included in the project **on your desktop** to view or modify the scene.
 
 ---
 
-## 🎯 Consignes du Projet
+## 🎯 Project Guidelines
 
-Ce projet a été réalisé dans le cadre d'un examen pratique dont l'objectif était de créer une scène 3D originale. Les consignes étaient les suivantes :
+This project was completed as part of a practical exam with the goal of creating an original 3D scene. The guidelines were as follows:
 
-1. **Modélisation 3D** :
-   - Modéliser plusieurs objets dans la scène avec un niveau de détail adapté à leur complexité.
-   - Déplier les UVs pour appliquer correctement les textures.
+1. **3D Modeling**:
+   - Model several objects in the scene with a level of detail appropriate to their complexity.
+   - Unwrap the UVs to correctly apply the textures.
 
-2. **Critères d'évaluation** :
+2. **Evaluation Criteria**:
 
-   | Critère                         | Détails                                                         |
+   | Criteria                        | Details                                                         |
    |----------------------------------|-----------------------------------------------------------------|
-   | **Complexité des modèles**       | Complexité et précision de chaque modèle                        |
-   | **Dépliage UV**                  | Qualité et propreté du dépliage UV                              |
-   | **Texturage**                    | Qualité des textures et leur application sur les objets         |
-   | **Ajouts supplémentaires**       | Animation, compositing ou toute autre fonctionnalité additionnelle |
+   | **Model complexity**             | Complexity and accuracy of each model                           |
+   | **UV unwrapping**                | Quality and cleanliness of the UV unwrapping                    |
+   | **Texturing**                    | Quality of the textures and their application to the objects     |
+   | **Additional features**          | Animation, compositing, or any other additional functionality    |
 
 ---
 
-## 🎨 Présentation du rendu final
+## 🎨 Final Render Presentation
 
-Voici un aperçu du rendu final de la scène 3D :
+Here is a preview of the final render of the 3D scene:
 
-![Rendu1](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/blob/main/Project_Blender/Render%20image/Render-Image-final.png)
+![Render1](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/blob/main/Project_Blender/Render%20image/Render-Image-final.png)
 
 ---
 
-## 🔧 Notes supplémentaires
+## 🔧 Additional Notes
 
-Si vous souhaitez contribuer à ce projet ou avez des questions, n'hésitez pas à :
+If you wish to contribute to this project or have any questions, feel free to:
 
-- Ouvrir une [issue](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/issues)
-- Soumettre une [pull request](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/pulls)
+- Open an [issue](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/issues)
+- Submit a [pull request](https://github.com/Leoorecchioni/ViA_First-3D-modelling-project/pulls)
 
-### ⚙️ Technologies utilisées
+### ⚙️ Technologies Used
 
-- **Blender 4.2** : Modélisation 3D
+- **Blender 4.2**: 3D Modeling
 
 ---
